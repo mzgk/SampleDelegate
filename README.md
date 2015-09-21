@@ -1,0 +1,2 @@
+# SampleDelegate
+delegateの練習
